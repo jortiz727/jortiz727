@@ -13,9 +13,9 @@ I turn complex, high-stakes operations into clear, accountable processes, and I 
 ## Featured projects
 
 | Project | What it does | Tech |
-| Military to Civilian Planner (https://github.com/Walling117/Military-to-Civilian-Planner) | UI & UX Lead Designer, Frontend Developer | .NET MAUI, C# |
-| JCN Work order generator (https://github.com/jortiz727/workorder-tracker) | Generates work orders to speed up a manual process | Python |
-| Data services demos (https://github.com/jortiz727/date-services-demo) | Web scraper and spreadsheet cleaner demos | Python |
+| [Military to Civilian Planner](https://github.com/Walling117/Military-to-Civilian-Planner) | UI & UX Lead Designer, Frontend Developer | .NET MAUI, C# |
+| [JCN Work order generator](https://github.com/jortiz727/workorder-tracker) | Generates work orders to speed up a manual process | Python |
+| [Data services demos](https://github.com/jortiz727/date-services-demo) | Web scraper and spreadsheet cleaner demos | Python |
 
 ## Skills
 
@@ -25,4 +25,4 @@ I turn complex, high-stakes operations into clear, accountable processes, and I 
 
 ## Connect
 
-- LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/julian-jose-ortiz)
+- LinkedIn: [Julian J. Ortiz](https://www.linkedin.com/in/julian-jose-ortiz)
